@@ -99,6 +99,10 @@ img {
   margin: 0 auto;
 }
 
+.col-md-3 {
+  margin-top: 2em;
+}
+
 h1 {
   text-align: center;
   font-size: 60px;
