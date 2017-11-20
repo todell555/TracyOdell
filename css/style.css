@@ -33,8 +33,7 @@ img {
 .bg-1 { 
   background-color: #3399cc; /* Blue */
   color: #ffffff;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  height: 35em;
 }
 
 .bg-2 { 
