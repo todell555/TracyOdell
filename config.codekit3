@@ -19,6 +19,94 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/originals\/CloseEncounters-min.png": {
+		"ft": 32768,
+		"iS": 16700,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/CloseEncounters-min.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/CloseEncounters.png": {
+		"ft": 32768,
+		"iS": 67531,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/CloseEncounters.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/contact-min.png": {
+		"ft": 32768,
+		"iS": 1965,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/contact-min.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/contact.png": {
+		"ft": 32768,
+		"iS": 7395,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/contact.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/PomodoroClock-min.png": {
+		"ft": 32768,
+		"iS": 3979,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/PomodoroClock-min.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/PomodoroClock.png": {
+		"ft": 32768,
+		"iS": 16786,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/PomodoroClock.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/WikipediaSearch-min.png": {
+		"ft": 32768,
+		"iS": 22283,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/WikipediaSearch-min.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/originals\/WikipediaSearch.png": {
+		"ft": 32768,
+		"iS": 82798,
+		"oA": 0,
+		"oAP": "\/assets\/originals\/WikipediaSearch.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/backup prior to contact form\/css\/style.css": {
 		"aP": 1,
 		"bl": 0,
