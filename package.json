@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "repository": {
-  "type": "git",
-  "url": "git://github.com/todell555/TracyOdell"
-},
+    "type": "git",
+    "url": "git://github.com/todell555/TracyOdell"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-contrib-concat": "^1.0.1"
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.1.0"
   }
 }

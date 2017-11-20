@@ -1,0 +1,1 @@
+module.exports=function(i){i.initConfig({pkg:i.file.readJSON("package.json"),uglify:{build:{src:"js/index.js",dest:"js/index.min.js"}}}),i.loadNpmTasks("grunt-contrib-uglify"),i.registerTask("default",["uglify"])};
