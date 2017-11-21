@@ -134,6 +134,33 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/contact-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/contact-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/contact.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/contact-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.php",
+		"oF": 0
+		},
 	"\/css\/style-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -174,13 +201,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/handler.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/handler.php",
-		"oF": 0
-		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -206,16 +226,6 @@
 		"oAP": "\/js\/index-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/index.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/index.min-min.js",
-		"oF": 0,
-		"sC": 3,
 		"tS": 0
 		},
 	"\/license.txt": {
@@ -252,6 +262,197 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/README.txt",
+		"oF": 0
+		},
+	"\/recaptcha-master\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/.gitignore",
+		"oF": 0
+		},
+	"\/recaptcha-master\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/.travis.yml",
+		"oF": 0
+		},
+	"\/recaptcha-master\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/recaptcha-master\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/recaptcha-master\/CONTRIBUTING.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/recaptcha-master\/CONTRIBUTING.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/recaptcha-master\/examples\/example-captcha.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/examples\/example-captcha.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/LICENSE",
+		"oF": 0
+		},
+	"\/recaptcha-master\/phpunit.xml.dist": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/phpunit.xml.dist",
+		"oF": 0
+		},
+	"\/recaptcha-master\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/recaptcha-master\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/recaptcha-master\/src\/autoload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/autoload.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/ReCaptcha.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/ReCaptcha.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestMethod.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestMethod.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/Curl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/Curl.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/CurlPost.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/CurlPost.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/Post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/Post.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/Socket.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/Socket.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/SocketPost.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestMethod\/SocketPost.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/RequestParameters.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/RequestParameters.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/src\/ReCaptcha\/Response.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/src\/ReCaptcha\/Response.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/tests\/ReCaptcha\/ReCaptchaTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/ReCaptchaTest.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/tests\/ReCaptcha\/RequestMethod\/CurlPostTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/RequestMethod\/CurlPostTest.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/tests\/ReCaptcha\/RequestMethod\/PostTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/RequestMethod\/PostTest.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/tests\/ReCaptcha\/RequestMethod\/SocketPostTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/RequestMethod\/SocketPostTest.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/tests\/ReCaptcha\/RequestParametersTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/RequestParametersTest.php",
+		"oF": 0
+		},
+	"\/recaptcha-master\/tests\/ReCaptcha\/ResponseTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/ResponseTest.php",
 		"oF": 0
 		}
 	},
