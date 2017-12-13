@@ -66,13 +66,12 @@ catch (\Exception $e)
     $responseArray = array('type' => 'danger', 'message' => $errorMessage);
 }
 
-if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest') {
-    $encoded = json_encode($responseArray);
+if ($responseArray['type'] == 'success') {
+    // success redirect
 
-    header('Content-Type: application/json');
-
-    echo $encoded;
+    header('Location: http://www.tracyodell.com/thankyou.html');
 }
 else {
-    echo $responseArray['message'];
+    //error redirect
+    header('Location: http://www.tracyodell.com/error.html');
 }

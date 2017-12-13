@@ -181,6 +181,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/error.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/error.html",
+		"oF": 0
+		},
 	"\/Gruntfile-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -453,6 +460,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/recaptcha-master\/tests\/ReCaptcha\/ResponseTest.php",
+		"oF": 0
+		},
+	"\/thankyou.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/thankyou.html",
 		"oF": 0
 		}
 	},
